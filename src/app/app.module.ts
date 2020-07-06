@@ -16,17 +16,11 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { NavigationComponent } from './navigation/navigation.component';
-import { TodoFormComponent } from './todo/todo-form/todo-form.component';
-import { TodoComponent } from './todo/todo.component';
-import { TodosPipe } from './todo/todos.pipe';
 
 @NgModule({
   declarations: [
     AppComponent,
-    NavigationComponent,
-    TodoComponent,
-    TodosPipe,
-    TodoFormComponent,
+    NavigationComponent
   ],
   imports: [
     BrowserModule,
