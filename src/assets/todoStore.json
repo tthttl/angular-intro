@@ -1,0 +1,6 @@
+[
+  {"id": 1, "description": "Todo 1", "checked": false},
+  {"id": 2, "description": "Todo 2", "checked": false},
+  {"id": 3, "description": "Todo 3", "checked": false},
+  {"id": 4, "description": "Todo 4", "checked": false}
+]
